@@ -19,3 +19,11 @@
   flex: 1;
   background-color: darkkhaki;
 }
+
+
+img {
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+    border-radius: 10px;
+}
