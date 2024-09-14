@@ -10,10 +10,12 @@
   height: 100vh;
 }
 
-.left {
+.left { 
   width: 300px;
+  background-color: darkgrey;
 }
 
 .right {
   flex: 1;
+  background-color: darkkhaki;
 }
