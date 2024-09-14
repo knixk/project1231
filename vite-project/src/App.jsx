@@ -21,7 +21,7 @@ export default function App() {
             toBottomHeight={"100%"}
             dataSource={[
               {
-                position: "left",
+                position: "right",
                 type: "text",
                 text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
                 date: new Date(),

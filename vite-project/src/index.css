@@ -10,7 +10,7 @@
   height: 100vh;
 }
 
-.left { 
+.left {
   width: 300px;
   background-color: darkgrey;
 }
@@ -20,10 +20,10 @@
   background-color: darkkhaki;
 }
 
-
-img {
-    width: 75px;
-    height: 75px;
-    object-fit: contain;
-    border-radius: 10px;
+img,
+svg {
+  width: 75px;
+  height: 75px;
+  object-fit: contain;
+  border-radius: 10px;
 }
