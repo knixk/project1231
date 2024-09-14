@@ -1,0 +1,19 @@
+* {
+  border: 1px solid plum;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.left {
+  width: 300px;
+}
+
+.right {
+  flex: 1;
+}
